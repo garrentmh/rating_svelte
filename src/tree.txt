@@ -1,0 +1,17 @@
+Folder PATH listing
+Volume serial number is 4A38-BD9F
+C:.
+¦   App.svelte
+¦   main.js
+¦   stores.js
+¦   tree.txt
+¦   
++---components
+        Button.svelte
+        Card.svelte
+        FeedbackForm.svelte
+        FeedbackItem.svelte
+        FeedbackList.svelte
+        FeedbackStats.svelte
+        RatingSelect.svelte
+        
