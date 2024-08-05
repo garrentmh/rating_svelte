@@ -22,7 +22,7 @@ This rating survey is a simple project utilizing Svelte as the frontend framewor
 
 ## Live Demo
 
-Check out the live demo [here](http://192.168.1.17/RnR/#/login).
+Check out the live demo [here](https://rating-survey-svelte.netlify.app).
 
 ## Getting Started
 
